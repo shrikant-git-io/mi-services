@@ -10,8 +10,9 @@
         <module name="netflix-eureka-naming-server" />
         <module name="currency-conversion-service" />
         <module name="currency-exchange-service" />
-        <module name="limits-service" />
         <module name="spring-cloud-config-server" />
+        <module name="limits-service" />
+        <module name="restful-web-services" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="limits-service" target="1.8" />
       <module name="netflix-eureka-naming-server" target="1.8" />
       <module name="netflix-zuul-api-gateway-server" target="1.8" />
+      <module name="restful-web-services" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -30,6 +32,7 @@
       <module name="limits-service" options="-parameters" />
       <module name="netflix-eureka-naming-server" options="-parameters" />
       <module name="netflix-zuul-api-gateway-server" options="-parameters" />
+      <module name="restful-web-services" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />
     </option>
   </component>

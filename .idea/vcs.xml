@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/git-localconfig-repo" vcs="" />
-    <mapping directory="$PROJECT_DIR$/limits-service/micoservices-basic" vcs="" />
   </component>
 </project>
