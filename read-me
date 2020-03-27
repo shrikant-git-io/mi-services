@@ -1,1 +1,2 @@
-
+C:\shrikant\installers>SET RABBIT_URI=amqp://localhost
+C:\shrikant\installers>java -jar zipkin-server-2.20.2-exec.jar
